@@ -6,11 +6,11 @@
 
 Но с самых ранних лет мне нравится сфера IT. Нравится создавать что-то, делать какие-то задания в информационной среде, искать какие-то ошибки. 
 
-![](изображение\QYRFt9hINJksyepkd54GZWvjLefR0TrtWuzwXcPYgBGqhv4pEIvN676Hx2gBDJjNt92o4cM0amnyWbeDMpehWmQEXr2plvH0.jpg)
+![.](изображение\QYRFt9hINJksyepkd54GZWvjLefR0TrtWuzwXcPYgBGqhv4pEIvN676Hx2gBDJjNt92o4cM0amnyWbeDMpehWmQEXr2plvH0.jpg)
 
 Поэт начала свой путь в IT с тестировщика. Во время обучения уже успела поработать над командной работой, что стало еще одной новой ступенькой к моей мечте.
 
-![](изображение\people_on_computers_downsized.jpg)
+![.](изображение\people_on_computers_downsized.jpg)
 
 Все работы можно посмотреть на профиле в GitHub.
 ![Профиль на GitHub](https://github.com/BerryDream7)
